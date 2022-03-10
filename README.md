@@ -11,7 +11,7 @@ simple get and put demonstration
 }
 ```
 
-### set method example use
+### set
 
 ```
 localhost:5000/set/test/123
@@ -21,7 +21,7 @@ localhost:5000/set/test/123
 }
 ```
 
-### get method example use
+### get
 
 ```
 localhost:5000/get/test
@@ -31,7 +31,7 @@ localhost:5000/get/test
 }
 ```
 
-### list method example use
+### list
 
 ```
 localhost:5000/list
