@@ -1,7 +1,6 @@
 # Simple API
 Simple demonstration of flask
 
-```
 ## set
 ```
 localhost:5000/set/test/123
@@ -36,5 +35,4 @@ http://localhost:5000/
   "listKeys": "/list", 
   "setValue": "/set/k/v"
 }
-
 ```
