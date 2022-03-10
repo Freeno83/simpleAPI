@@ -2,7 +2,6 @@
 Simple demonstration of flask
 
 ### "Home page" shows the available methods
-
 ```
 {
   "getValue": "/get/k", 
@@ -10,32 +9,23 @@ Simple demonstration of flask
   "setValue": "/set/k/v"
 }
 ```
-
 ### set
-
 ```
 localhost:5000/set/test/123
-
 {
   "message": "Created new key: 'test' with value: 123"
 }
 ```
-
 ### get
-
 ```
 localhost:5000/get/test
-
 {
   "value": "123"
 }
 ```
-
 ### list
-
 ```
 localhost:5000/list
-
 {
   "keys": [
     "test"
