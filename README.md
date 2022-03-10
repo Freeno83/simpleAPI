@@ -25,7 +25,7 @@ localhost:5000/list
 }
 ```
 
-## All availble methods can be see at the root url
+## All availble methods can be seen at the root url
 
 ```
 http://localhost:5000/
