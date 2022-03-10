@@ -24,6 +24,7 @@ def getValue(k):
 
 @app.route("/list")
 def listKeys():
+    """Shows all keys that are currently stored"""
     return jsonify(keys=list(varStore.keys()))
 
 @app.route("/")
