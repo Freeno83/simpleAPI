@@ -1,5 +1,5 @@
 # Simple API
-simple get and put demonstration
+Simple demonstration of flask
 
 ### "Home page" shows the available methods
 
